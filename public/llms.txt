@@ -1,0 +1,93 @@
+# Wyld Casino — Generative Engine Optimization Map
+
+> Wyld Casino is a fun, energetic slot gaming brand with a playful and humorous personality — the name 'Wyld' and the inclusion of 'joke gaming' suggest a lighthearted, wild-and-crazy atmosphere. The casino features themed slot machines including Texas Tea and music-themed games, creating a lively gaming room vibe that blends entertainment with classic slot culture.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Unleash the fun with free online casino slot machines at Wyld Casino. A jackpot party casino vibe meets wild humor—start spinning for laughs and big wins today!
+
+### Slot Machines
+https://example.com/slot-machines
+Dive into our roaring collection of free casino slot machines. From classic reels to themed madness, find your perfect game and trigger a jackpot party casino thrill!
+
+### Texas Tea Slot
+https://example.com/texas-tea-slot
+Drill into the Texas Tea Slot at Wyld Casino! This oil-rich game blends free online casino slot machines fun with big-bonus humor. Spin the reels and gush wins!
+
+### Music Slots
+https://example.com/music-slots
+Crank up the volume on our music slots! Where free casino slot machines meet chart-topping energy. Hit spin and let the rhythm lead you to doubledown casino vegas slots-style wins.
+
+### Joke Gaming Room
+https://example.com/joke-gaming-room
+Welcome to the Joke Gaming Room—where punchlines meet paylines! Enjoy free online casino slot machines with a comedic twist. It&#39;s a jackpot party casino with a stand-up vibe!
+
+### Contact
+https://example.com/contact
+Ready to join the wildest jackpot party casino? Contact Wyld Casino for questions, feedback, or just to share a laugh. We&#39;re here to keep your free casino slot machines spinning!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Wyld Casino
+Wyld Casino is a fun, energetic slot gaming brand with a playful and humorous personality — the name 'Wyld' and the inclusion of 'joke gaming' suggest a lighthearted, wild-and-crazy atmosphere. The casino features themed slot machines including Texas Tea and music-themed games, creating a lively gaming room vibe that blends entertainment with classic slot culture.
+
+## Services/Products
+- slot machines
+- slot gaming
+- Texas Tea slots
+- music-themed games
+- gaming room experience
+
+## Target Audience
+- Frequent Travelers
+- Online Gaming Enthusiasts
+- Local Nightlife Seekers
+
+## Industry
+Casino & Gaming Entertainment
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
